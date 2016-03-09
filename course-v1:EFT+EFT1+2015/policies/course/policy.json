@@ -1,0 +1,52 @@
+{
+    "course/course": {
+        "announcement": null, 
+        "catalog_visibility": "about", 
+        "course_image": "istock-0021-crop.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-EFT-EFT1-course-2015"
+            }
+        }, 
+        "display_name": "Mente Pr\u00f3spera", 
+        "end": null, 
+        "enrollment_end": null, 
+        "enrollment_start": "2030-01-01T00:00:00Z", 
+        "info_sidebar_name": "Course Files", 
+        "invitation_only": false, 
+        "ispublic": true, 
+        "start": "2030-01-01T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/2015.xml", 
+                "course/2015.xml"
+            ]
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "shutterstock_88288024.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AFlex4", 
+            "name": "shutterstock_88288024.jpg", 
+            "org": "ABA", 
+            "revision": null, 
+            "run": "20161AFQQ51", 
+            "tag": "c4x"
+        }, 
+        "displayname": "shutterstock_88288024.jpg", 
+        "filename": "asset-v1:ABA+AFlex4+20161AFQQ51+type@asset+block@shutterstock_88288024.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "ABA", 
+            "AFlex4", 
+            "thumbnail", 
+            "shutterstock_88288024.jpg", 
+            null
+        ]
+    }, 
+    "wb_page46-e2.dib": {
+        "contentType": "image/bmp", 
+        "content_son": {
+            "category": "asset", 
+            "course": "AFlex4", 
+            "name": "wb_page46-e2.dib", 
+            "org": "ABA", 
+            "revision": null, 
+            "run": "20161AFQQ51", 
+            "tag": "c4x"
+        }, 
+        "displayname": "wb page46-e2.dib", 
+        "filename": "asset-v1:ABA+AFlex4+20161AFQQ51+type@asset+block@wb_page46-e2.dib", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "ABA", 
+            "AFlex4", 
+            "thumbnail", 
+            "wb_page46-e2-dib.jpg", 
+            null
+        ]
+    }
+}

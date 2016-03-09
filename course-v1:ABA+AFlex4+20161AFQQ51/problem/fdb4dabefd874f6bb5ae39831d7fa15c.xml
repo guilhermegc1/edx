@@ -1,0 +1,39 @@
+<problem display_name="Exercise 2" markdown="Match these words with the parts of the face.&#10;&lt;table&gt;&lt;tr&gt;&lt;td rowspan=&quot;7&quot; style=&quot;vertical-align:top;&quot;&gt;&lt;img src=&quot;/static/wb_page46-e2.dib&quot;/&gt;&lt;/td&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;lips&lt;/td&gt;&lt;td&gt; [[1, 2, 3, 4, (5), 6, 7]] &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;eyebrown&lt;/td&gt;&lt;td&gt;[[(1), 2, 3, 4, 5, 6, 7]]&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;cheek&lt;/td&gt;&lt;td&gt;[[1, 2, 3, 4, 5, (6), 7]]&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;nose&lt;/td&gt;&lt;td&gt;[[1, 2, (3), 4, 5, 6, 7]]&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;ear&lt;/td&gt;&lt;td&gt;[[1, 2, 3, (4), 5, 6, 7]]&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;eye&lt;/td&gt;&lt;td&gt;[[1, (2), 3, 4, 5, 6, 7]]&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0 10px 10px 10px;vertical-align:top;&quot;&gt;chin&lt;/td&gt;&lt;td&gt;[[1, 2, 3, 4, 5, 6, (7)]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" max_attempts="3">
+<p>Match these words with the parts of the face.</p>
+<table><tr><td rowspan="7" style="vertical-align:top;"><img src="/static/wb_page46-e2.dib"/></td><td style="padding:0 10px 10px 10px;vertical-align:top;">lips</td><td> 
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="5"/>
+</optionresponse>
+
+ </td></tr><tr><td style="padding:0 10px 10px 10px;vertical-align:top;">eyebrown</td><td>
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="1"/>
+</optionresponse>
+
+</td></tr><tr><td style="padding:0 10px 10px 10px;vertical-align:top;">cheek</td><td>
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="6"/>
+</optionresponse>
+
+</td></tr><tr><td style="padding:0 10px 10px 10px;vertical-align:top;">nose</td><td>
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="3"/>
+</optionresponse>
+
+</td></tr><tr><td style="padding:0 10px 10px 10px;vertical-align:top;">ear</td><td>
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="4"/>
+</optionresponse>
+
+</td></tr><tr><td style="padding:0 10px 10px 10px;vertical-align:top;">eye</td><td>
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="2"/>
+</optionresponse>
+
+</td></tr><tr><td style="padding:0 10px 10px 10px;vertical-align:top;">chin</td><td>
+<optionresponse>
+  <optioninput options="('1','2','3','4','5','6','7')" correct="7"/>
+</optionresponse>
+
+</td></tr></table>
+</problem>

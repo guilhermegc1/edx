@@ -1,0 +1,29 @@
+<problem display_name="Student's Book Page 85" markdown="Go to your Student's Book (colored pages).&#10;&#10;On page 85, do exercise 7.&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;&lt;b&gt;Exercise 7&lt;/b&gt;&#10;Sample answers:&#10;1- Australia is hotter / more interesting than Antarctica.&#10;2- Rock-climbing is more dangerous than surfing.&#10;3- Travel by air is cheaper than travel by sea.&#10;4- An elephant is bigger than a lion.&#10;5- Paris is more expensive than New York.&#10;6- Train journeys are longer than plane journeys.&#10;[explanation]">
+<p>Go to your Student's Book (colored pages).</p>
+
+<p>On page 85, do exercise 7.</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<b>Exercise 7</b>
+<p>Sample answers:</p>
+<p>1- Australia is hotter / more interesting than Antarctica.</p>
+<p>2- Rock-climbing is more dangerous than surfing.</p>
+<p>3- Travel by air is cheaper than travel by sea.</p>
+<p>4- An elephant is bigger than a lion.</p>
+<p>5- Paris is more expensive than New York.</p>
+<p>6- Train journeys are longer than plane journeys.</p>
+
+</div>
+</solution>
+</problem>

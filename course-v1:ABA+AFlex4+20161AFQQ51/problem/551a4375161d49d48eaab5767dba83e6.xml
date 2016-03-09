@@ -1,0 +1,27 @@
+<problem display_name="Student's Book Page 89" markdown="Go to your Student's Book (colored pages).&#10;&#10;On page 89, do exercise 5, Letter B.&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;&lt;b&gt;Exercise 5B&lt;/b&gt;&#10;1- because&#10;2- so&#10;3- because&#10;4- so&#10;5- because&#10;[explanation]">
+<p>Go to your Student's Book (colored pages).</p>
+
+<p>On page 89, do exercise 5, Letter B.</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<b>Exercise 5B</b>
+<p>1- because</p>
+<p>2- so</p>
+<p>3- because</p>
+<p>4- so</p>
+<p>5- because</p>
+
+</div>
+</solution>
+</problem>

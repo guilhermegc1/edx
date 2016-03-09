@@ -1,0 +1,27 @@
+<problem display_name="Student's Book Page 86" markdown="Go to your Student's Book (colored pages).&#10;&#10;On page 86, do exercise 9.&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;&lt;b&gt;Exercise 9&lt;/b&gt;&#10;1- nearest&#10;2- easiest&#10;3- farthest&#10;4- best&#10;5- hottest&#10;[explanation]">
+<p>Go to your Student's Book (colored pages).</p>
+
+<p>On page 86, do exercise 9.</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<b>Exercise 9</b>
+<p>1- nearest</p>
+<p>2- easiest</p>
+<p>3- farthest</p>
+<p>4- best</p>
+<p>5- hottest</p>
+
+</div>
+</solution>
+</problem>

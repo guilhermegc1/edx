@@ -1,0 +1,23 @@
+<problem display_name="Exercise 2" markdown="&lt;table style=&quot;border:1px solid #000&quot;&gt;&lt;tr&gt;&lt;td&gt;SPELL CHECK - comparative adjectives&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;ul style=&quot;margin-left:25px;&quot;&gt;&lt;li&gt;Add -&lt;i&gt;er&lt;/i&gt; to short adjectives to form the comparative: &lt;i&gt;old&lt;/i&gt; -&gt; &lt;i&gt;older&lt;/i&gt;.&lt;/li&gt;&lt;li&gt;Add -&lt;i&gt;r&lt;/i&gt; to adjectives ending in -&lt;i&gt;e&lt;/i&gt;: &lt;i&gt;large&lt;/i&gt; -&gt; &lt;i&gt;larger&lt;/i&gt;.&lt;/li&gt;&lt;li&gt;Change adjectives ending in -&lt;i&gt;y&lt;/i&gt; (after a consonant) to -&lt;i&gt;i&lt;/i&gt;, and add -&lt;i&gt;er&lt;/i&gt;: &lt;i&gt;happy&lt;/i&gt; -&gt; &lt;i&gt;happier&lt;/i&gt;.&lt;/li&gt;&lt;li&gt;Double the final consonant on some adjectives ending with a vowel and a consonant: &lt;i&gt;hot&lt;/i&gt; -&gt; &lt;i&gt;hotter&lt;/i&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#10;&#10;Look at the spell check box. Write the comparative form of these adjectives.&#10;1- short&#10;= shorter&#10;2- easy&#10;= easier&#10;3- big&#10;= bigger&#10;4- busy&#10;= busier" max_attempts="3">
+<table style="border:1px solid #000"><tr><td>SPELL CHECK - comparative adjectives</td></tr><tr><td><ul style="margin-left:25px;"><li>Add -<i>er</i> to short adjectives to form the comparative: <i>old</i> -&gt; <i>older</i>.</li><li>Add -<i>r</i> to adjectives ending in -<i>e</i>: <i>large</i> -&gt; <i>larger</i>.</li><li>Change adjectives ending in -<i>y</i> (after a consonant) to -<i>i</i>, and add -<i>er</i>: <i>happy</i> -&gt; <i>happier</i>.</li><li>Double the final consonant on some adjectives ending with a vowel and a consonant: <i>hot</i> -&gt; <i>hotter</i>.</li></ul></td></tr></table>
+
+<p>Look at the spell check box. Write the comparative form of these adjectives.</p>
+<p>1- short</p>
+<stringresponse answer="shorter" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>2- easy</p>
+<stringresponse answer="easier" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>3- big</p>
+<stringresponse answer="bigger" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>4- busy</p>
+<stringresponse answer="busier" type="ci">
+  <textline size="20"/>
+</stringresponse>
+
+
+</problem>

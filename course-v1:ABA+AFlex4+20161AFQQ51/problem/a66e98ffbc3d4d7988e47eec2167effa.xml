@@ -1,0 +1,22 @@
+<problem display_name="Exercise 4" markdown="Use the prompts to make comparative sentences.&#10;1- my brother / short / me&#10;Answer: &lt;i&gt;My brother is shorter than me.&lt;/i&gt;&#10;2- I think / rock climbing / difficult / surfing&#10;= I think rock climbing is more difficult than surfing.&#10;or= I think rock climbing is more difficult than surfing&#10;3- giraffes / tall / elephants&#10;= Giraffes are taller than elephants.&#10;or= Giraffes are taller than elephants&#10;4- camping / cheap / staying in a hotel&#10;= Camping is cheaper than staying in a hotel.&#10;or= Camping is cheaper than staying in a hotel" max_attempts="3">
+<p>Use the prompts to make comparative sentences.</p>
+<p>1- my brother / short / me</p>
+<p>Answer: <i>My brother is shorter than me.</i></p>
+<p>2- I think / rock climbing / difficult / surfing</p>
+<stringresponse answer="I think rock climbing is more difficult than surfing." type="ci">
+  <additional_answer answer="I think rock climbing is more difficult than surfing"/>
+  <textline size="20"/>
+</stringresponse>
+<p>3- giraffes / tall / elephants</p>
+<stringresponse answer="Giraffes are taller than elephants." type="ci">
+  <additional_answer answer="Giraffes are taller than elephants"/>
+  <textline size="20"/>
+</stringresponse>
+<p>4- camping / cheap / staying in a hotel</p>
+<stringresponse answer="Camping is cheaper than staying in a hotel." type="ci">
+  <additional_answer answer="Camping is cheaper than staying in a hotel"/>
+  <textline size="20"/>
+</stringresponse>
+
+
+</problem>

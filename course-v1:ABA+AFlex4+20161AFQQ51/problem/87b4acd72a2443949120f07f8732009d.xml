@@ -1,0 +1,23 @@
+<problem display_name="Exercise 3" markdown="Replace the words in bold with these adjectives.&#10;&lt;table style=&quot;border:1px solid #000&quot;&gt;&lt;tr&gt;&lt;td style=&quot;padding:10px;text-decoration:line-through;&quot;&gt;boring&lt;/td&gt;&lt;td style=&quot;padding:10px;&quot;&gt;colorful&lt;/td&gt;&lt;td style=&quot;padding:10px;&quot;&gt;crowded&lt;/td&gt;&lt;td style=&quot;padding:10px;&quot;&gt;fun&lt;/td&gt;&lt;td style=&quot;padding:10px;&quot;&gt;noisy&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#10;1- The festival was&lt;b&gt;n't interesting&lt;/b&gt;.&lt;br/&gt;Answer: &lt;i&gt;boring&lt;/i&gt;&#10;2- The musicians and their instruments were very &lt;b&gt;loud&lt;/b&gt;.&#10;= noisy&#10;3- The streets were &lt;b&gt;full of people&lt;/b&gt;.&#10;= crowded&#10;4- The people's clothes were &lt;b&gt;lots of different colors&lt;/b&gt;.&#10;= colorful&#10;5- We had &lt;b&gt;a good time&lt;/b&gt; at the festival.&#10;= fun" max_attempts="3">
+<p>Replace the words in bold with these adjectives.</p>
+<table style="border:1px solid #000"><tr><td style="padding:10px;text-decoration:line-through;">boring</td><td style="padding:10px;">colorful</td><td style="padding:10px;">crowded</td><td style="padding:10px;">fun</td><td style="padding:10px;">noisy</td></tr></table>
+<p>1- The festival was<b>n't interesting</b>.<br/>Answer: <i>boring</i></p>
+<p>2- The musicians and their instruments were very <b>loud</b>.</p>
+<stringresponse answer="noisy" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>3- The streets were <b>full of people</b>.</p>
+<stringresponse answer="crowded" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>4- The people's clothes were <b>lots of different colors</b>.</p>
+<stringresponse answer="colorful" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>5- We had <b>a good time</b> at the festival.</p>
+<stringresponse answer="fun" type="ci">
+  <textline size="20"/>
+</stringresponse>
+
+
+</problem>

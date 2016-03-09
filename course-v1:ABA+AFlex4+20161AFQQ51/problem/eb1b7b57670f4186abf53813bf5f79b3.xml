@@ -1,0 +1,62 @@
+<problem display_name="Student's Book Page 92" markdown="Go to your Student's Book (colored pages).&#10;&#10;On page 92, do exercises 1, 2, 3, 4, 5, 6 and 7.&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;&lt;b&gt;Exercise 1&lt;/b&gt;&#10;1- began&#10;2- traveled&#10;3- took&#10;4- didn't return&#10;5- stayed&#10;6- worked&#10;7- didn't travel&#10;8- became&#10;9- didn't believe&#10;10- said&#10;&lt;b&gt;Exercise 2&lt;/b&gt;&#10;2- Where did he travel from?&#10;3- How long did the journey take?&#10;4- How long did he stay in China?&#10;5- After 1295 did he travel to Asia again?&#10;&lt;b&gt;Exercise 3&lt;/b&gt;&#10;2- A Porsche is faster than a Mini. A Mini is slower than a Porsche.&#10;3- This house is more expensive than the apartment. The apartment is cheaper than this house.&#10;4- Seoul is bigger than Havana. Havana is smaller than Seoul.&#10;5- The Nile River is shorter than the Amazon River. The Amazon river is longer than the Nile River.&#10;&lt;b&gt;Exercise 4&lt;/b&gt;&#10;2- the fastest&#10;3- the most expensive&#10;4- the biggest&#10;5- the longest&#10;&lt;b&gt;Exercise 5&lt;/b&gt;&#10;1- a bike&#10;2- a plane&#10;3- a boat&#10;4- a car&#10;&lt;b&gt;Exercise 6&lt;/b&gt;&#10;1- journey&#10;2- trip&#10;3- take&#10;4- writes/blogs&#10;&lt;b&gt;Exercise 7&lt;/b&gt;&#10;1- meal&#10;2- weather&#10;3- hotel&#10;4- flight&#10;[explanation]">
+<p>Go to your Student's Book (colored pages).</p>
+
+<p>On page 92, do exercises 1, 2, 3, 4, 5, 6 and 7.</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<b>Exercise 1</b>
+<p>1- began</p>
+<p>2- traveled</p>
+<p>3- took</p>
+<p>4- didn't return</p>
+<p>5- stayed</p>
+<p>6- worked</p>
+<p>7- didn't travel</p>
+<p>8- became</p>
+<p>9- didn't believe</p>
+<p>10- said</p>
+<b>Exercise 2</b>
+<p>2- Where did he travel from?</p>
+<p>3- How long did the journey take?</p>
+<p>4- How long did he stay in China?</p>
+<p>5- After 1295 did he travel to Asia again?</p>
+<b>Exercise 3</b>
+<p>2- A Porsche is faster than a Mini. A Mini is slower than a Porsche.</p>
+<p>3- This house is more expensive than the apartment. The apartment is cheaper than this house.</p>
+<p>4- Seoul is bigger than Havana. Havana is smaller than Seoul.</p>
+<p>5- The Nile River is shorter than the Amazon River. The Amazon river is longer than the Nile River.</p>
+<b>Exercise 4</b>
+<p>2- the fastest</p>
+<p>3- the most expensive</p>
+<p>4- the biggest</p>
+<p>5- the longest</p>
+<b>Exercise 5</b>
+<p>1- a bike</p>
+<p>2- a plane</p>
+<p>3- a boat</p>
+<p>4- a car</p>
+<b>Exercise 6</b>
+<p>1- journey</p>
+<p>2- trip</p>
+<p>3- take</p>
+<p>4- writes/blogs</p>
+<b>Exercise 7</b>
+<p>1- meal</p>
+<p>2- weather</p>
+<p>3- hotel</p>
+<p>4- flight</p>
+
+</div>
+</solution>
+</problem>

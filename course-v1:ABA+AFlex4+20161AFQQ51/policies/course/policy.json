@@ -1,0 +1,47 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "library_content"
+        ], 
+        "course_image": "shutterstock_88288024.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Adult Flex 4", 
+        "end": "2016-07-31T00:00:00Z", 
+        "enrollment_end": "2016-05-31T00:00:00Z", 
+        "enrollment_start": "2016-01-01T00:00:00Z", 
+        "graceperiod": "", 
+        "language": "en", 
+        "minimum_grade_credit": 0.8, 
+        "start": "2016-02-04T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ]
+    }
+}

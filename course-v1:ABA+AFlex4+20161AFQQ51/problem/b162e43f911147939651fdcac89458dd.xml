@@ -1,0 +1,21 @@
+<problem display_name="Exercise 3" markdown="Complete these sentences with the comparative form of the adjective in brackets.&#10;1- This laptop is ____________ (cheap) than that one.&#10;= cheaper&#10;2- Everything is ____________ (expensive) at the airport stores.&#10;= more expensive&#10;3- Are you ___________ (old) than me?&#10;= older&#10;4- I can speak Japanese but my brother is ___________ (good).&#10;= better" max_attempts="3">
+<p>Complete these sentences with the comparative form of the adjective in brackets.</p>
+<p>1- This laptop is ____________ (cheap) than that one.</p>
+<stringresponse answer="cheaper" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>2- Everything is ____________ (expensive) at the airport stores.</p>
+<stringresponse answer="more expensive" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>3- Are you ___________ (old) than me?</p>
+<stringresponse answer="older" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>4- I can speak Japanese but my brother is ___________ (good).</p>
+<stringresponse answer="better" type="ci">
+  <textline size="20"/>
+</stringresponse>
+
+
+</problem>

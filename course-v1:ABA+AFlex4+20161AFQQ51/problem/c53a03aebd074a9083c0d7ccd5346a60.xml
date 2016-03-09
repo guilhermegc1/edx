@@ -1,0 +1,23 @@
+<problem display_name="Student's Book Page 95" markdown="Go to your Student's Book (colored pages).&#10;&#10;On page 95, do exercise 7.&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;&lt;b&gt;Exercise 7&lt;/b&gt;&#10;&lt;table style=&quot;border:1px solid #000;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;General appearence&lt;/td&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;Height&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;beautiful (usually women)&lt;br/&gt;handsome (usually men)&lt;br/&gt;ugly&lt;/td&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;short / tall&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;Hair&lt;/td&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;Eyes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;long / short&lt;br/&gt;straight / curly&lt;br/&gt;dark / fair / blonde&lt;/td&gt;&lt;td style=&quot;border:1px solid #000; padding:5px;&quot;&gt;blue&lt;br/&gt;green&lt;br/&gt;brown&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#10;[explanation]">
+<p>Go to your Student's Book (colored pages).</p>
+
+<p>On page 95, do exercise 7.</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<b>Exercise 7</b>
+<table style="border:1px solid #000;"><tr><td style="border:1px solid #000; padding:5px;">General appearence</td><td style="border:1px solid #000; padding:5px;">Height</td></tr><tr><td style="border:1px solid #000; padding:5px;">beautiful (usually women)<br/>handsome (usually men)<br/>ugly</td><td style="border:1px solid #000; padding:5px;">short / tall</td></tr><tr><td style="border:1px solid #000; padding:5px;">Hair</td><td style="border:1px solid #000; padding:5px;">Eyes</td></tr><tr><td style="border:1px solid #000; padding:5px;">long / short<br/>straight / curly<br/>dark / fair / blonde</td><td style="border:1px solid #000; padding:5px;">blue<br/>green<br/>brown</td></tr></table>
+
+</div>
+</solution>
+</problem>

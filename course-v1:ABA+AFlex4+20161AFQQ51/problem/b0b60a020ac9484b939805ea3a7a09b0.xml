@@ -1,0 +1,44 @@
+<problem display_name="Exercise 1" markdown="&lt;table style=&quot;border:1px solid #000;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #000;&quot;&gt;WORDBUILDING really/very + adjective&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;You can make some adjectives stronger or weaker with &lt;i&gt;really, very,&lt;/i&gt; or &lt;i&gt;not very&lt;/i&gt;.&lt;br/&gt;&lt;br/&gt;My dinner was really good. (+ +)&lt;br/&gt;My dinner was good. (+)&lt;br/&gt;My dinner wasn't very good. (- -)&lt;br/&gt;The travel show was very interesting. (+ +)&lt;br/&gt;The travel show was interesting. (+)&lt;br/&gt;The travel show wasn't very interesting. (- -)&lt;br/&gt;&lt;br/&gt;You can use &lt;i&gt;very&lt;/i&gt; and &lt;i&gt;really&lt;/i&gt; with these adjectives: &lt;i&gt;good, bad, interesting, comfortable, nice&lt;/i&gt;.&lt;br/&gt;You can only use &lt;i&gt;really&lt;/i&gt; (not &lt;i&gt;very&lt;/i&gt;) with these adjectives: &lt;i&gt;great, amazing, delicious&lt;/i&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#10;&#10;Read the sentences and look at the symbols in parentheses. Rewrite the sentences using &lt;i&gt;very&lt;/i&gt; or &lt;i&gt;really&lt;/i&gt;.&#10;&#10;1- The trip was good. (+ +)&lt;br/&gt;Answer: &lt;i&gt;The trip was very good.&lt;/i&gt; or &lt;i&gt;The trip was really good.&lt;/i&gt;&#10;2- The food wasn't good. (+ +)&#10;= The food was very good.&#10;or= The food was really good.&#10;3- The meetings were interesting. (- -)&#10;= The meetings weren't very interesting.&#10;or= The meetings weren´t very interesting.&#10;or= The meetings weren`t very interesting.&#10;4- The party was great! (+ +)&#10;= The party was really great!&#10;5- The weather was bad. (+ +)&#10;= The weather was really bad.&#10;or= The weather was very bad.&#10;6- It was sunny. (- -)&#10;= It wasn't very sunny.&#10;or= It wasn´t very sunny.&#10;or= It wasn`t very sunny.&#10;7- The flight was bad. (+ +)&#10;= The flight was really bad.&#10;or= The flight was very bad.&#10;8- The hotel was amazing! (+ +)&#10;= The hotel was really amazing!" max_attempts="3">
+<table style="border:1px solid #000;"><tr><td style="border:1px solid #000;">WORDBUILDING really/very + adjective</td></tr><tr><td>You can make some adjectives stronger or weaker with <i>really, very,</i> or <i>not very</i>.<br/><br/>My dinner was really good. (+ +)<br/>My dinner was good. (+)<br/>My dinner wasn't very good. (- -)<br/>The travel show was very interesting. (+ +)<br/>The travel show was interesting. (+)<br/>The travel show wasn't very interesting. (- -)<br/><br/>You can use <i>very</i> and <i>really</i> with these adjectives: <i>good, bad, interesting, comfortable, nice</i>.<br/>You can only use <i>really</i> (not <i>very</i>) with these adjectives: <i>great, amazing, delicious</i>.</td></tr></table>
+
+<p>Read the sentences and look at the symbols in parentheses. Rewrite the sentences using <i>very</i> or <i>really</i>.</p>
+
+<p>1- The trip was good. (+ +)<br/>Answer: <i>The trip was very good.</i> or <i>The trip was really good.</i></p>
+<p>2- The food wasn't good. (+ +)</p>
+<stringresponse answer="The food was very good." type="ci">
+  <additional_answer answer="The food was really good."/>
+  <textline size="20"/>
+</stringresponse>
+<p>3- The meetings were interesting. (- -)</p>
+<stringresponse answer="The meetings weren't very interesting." type="ci">
+  <additional_answer answer="The meetings weren´t very interesting."/>
+  <additional_answer answer="The meetings weren`t very interesting."/>
+  <textline size="20"/>
+</stringresponse>
+<p>4- The party was great! (+ +)</p>
+<stringresponse answer="The party was really great!" type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>5- The weather was bad. (+ +)</p>
+<stringresponse answer="The weather was really bad." type="ci">
+  <additional_answer answer="The weather was very bad."/>
+  <textline size="20"/>
+</stringresponse>
+<p>6- It was sunny. (- -)</p>
+<stringresponse answer="It wasn't very sunny." type="ci">
+  <additional_answer answer="It wasn´t very sunny."/>
+  <additional_answer answer="It wasn`t very sunny."/>
+  <textline size="20"/>
+</stringresponse>
+<p>7- The flight was bad. (+ +)</p>
+<stringresponse answer="The flight was really bad." type="ci">
+  <additional_answer answer="The flight was very bad."/>
+  <textline size="20"/>
+</stringresponse>
+<p>8- The hotel was amazing! (+ +)</p>
+<stringresponse answer="The hotel was really amazing!" type="ci">
+  <textline size="20"/>
+</stringresponse>
+
+
+</problem>

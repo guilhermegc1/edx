@@ -1,0 +1,35 @@
+<problem display_name="Exercise from Video" markdown="Go to your Student's Book (colored pages).&#10;&#10;On page 82, circle the verbs that you find in the past simple form.&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;&lt;b&gt;Verbs&lt;/b&gt;&#10;1- flew&#10;2- traveled&#10;3- took off&#10;4- didn't stop&#10;5- landed&#10;6- didn't use&#10;7- offered&#10;8- entered&#10;9- didn't finish&#10;10- had&#10;11- was&#10;12- couldn't take off&#10;13- changed&#10;[explanation]">
+<p>Go to your Student's Book (colored pages).</p>
+
+<p>On page 82, circle the verbs that you find in the past simple form.</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<b>Verbs</b>
+<p>1- flew</p>
+<p>2- traveled</p>
+<p>3- took off</p>
+<p>4- didn't stop</p>
+<p>5- landed</p>
+<p>6- didn't use</p>
+<p>7- offered</p>
+<p>8- entered</p>
+<p>9- didn't finish</p>
+<p>10- had</p>
+<p>11- was</p>
+<p>12- couldn't take off</p>
+<p>13- changed</p>
+
+</div>
+</solution>
+</problem>

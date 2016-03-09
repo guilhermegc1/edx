@@ -1,0 +1,68 @@
+<problem display_name="Exercise 1" markdown="Read the article. Are the sentences true or false?&#10;The face of Cleopatra&#10;=====&#10;&#10;Cleopatra was born in Egypt over two thousand years ago. She was eighteen when her father died and she became a famous queen. In the modern world, she is still famous. Students read about her in books. We watch her in movies. In modern pictures and old paintings she is always beautiful.&#10;&#10;But what did Cleopatra look like? No one knows exactly. She lived in the ancient city of Alexandria. But over time, a lot of Alexandria disappeared and nowadays most of this region is underwater. Some archaeologists study the objects under the water, but there isn't a face of the queen.&#10;&#10;Some historians from the period wrote about the queen. But they describe her power and do not tell us about her appearance. The only real picture of Cleopatra is on some metal coins from Alexandria. One coin shows a woman's face with a large nose. Another coin shows a long neck. But none of the coins are clear, so the face of Cleopatra is still a mystery.&#10;&#10;1- When Cleopatra was born, she was the queen.&#10;( ) True&#10;(x) False&#10;2- Nowadays, people don't learn about Cleopatra.&#10;( ) True&#10;(x) False&#10;3- We don't know what Cleopatra looked like&#10;(x) True&#10;( ) False&#10;4- Archaeologists find objects from Alexandria under the water.&#10;(x) True&#10;( ) False&#10;5- Two thousand years ago, writers often described her appearance.&#10;( ) True&#10;(x) False&#10;6- Her face was on coins.&#10;(x) True&#10;( ) False&#10;7- It's easy to see her appearance on the coins.&#10;( ) True&#10;(x) False" max_attempts="3">
+<p>Read the article. Are the sentences true or false?</p>
+<h1>The face of Cleopatra</h1>
+
+<p>Cleopatra was born in Egypt over two thousand years ago. She was eighteen when her father died and she became a famous queen. In the modern world, she is still famous. Students read about her in books. We watch her in movies. In modern pictures and old paintings she is always beautiful.</p>
+
+<p>But what did Cleopatra look like? No one knows exactly. She lived in the ancient city of Alexandria. But over time, a lot of Alexandria disappeared and nowadays most of this region is underwater. Some archaeologists study the objects under the water, but there isn't a face of the queen.</p>
+
+<p>Some historians from the period wrote about the queen. But they describe her power and do not tell us about her appearance. The only real picture of Cleopatra is on some metal coins from Alexandria. One coin shows a woman's face with a large nose. Another coin shows a long neck. But none of the coins are clear, so the face of Cleopatra is still a mystery.</p>
+
+<p>1- When Cleopatra was born, she was the queen.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2- Nowadays, people don't learn about Cleopatra.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3- We don't know what Cleopatra looked like</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4- Archaeologists find objects from Alexandria under the water.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5- Two thousand years ago, writers often described her appearance.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6- Her face was on coins.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7- It's easy to see her appearance on the coins.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

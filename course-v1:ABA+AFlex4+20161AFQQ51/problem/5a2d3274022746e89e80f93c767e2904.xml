@@ -1,0 +1,25 @@
+<problem display_name="Exercise 2" markdown="Join the sentences with &lt;i&gt;so&lt;/i&gt; or &lt;i&gt;because&lt;/i&gt;.&#10;1- The bus was canceled. We waited for the next one.&lt;br/&gt;Answer: &lt;i&gt; The bus was canceled so we waited for the next one.&lt;/i&gt;&#10;2- The flight was canceled. The weather was terrible.&#10;= The flight was canceled because the weather was terrible.&#10;3- The food was hot and spicy. We drank three bottles of water with our meal.&#10;= The food was hot and spicy so we drank three bottles of water with our meal.&#10;4- The meeting was long and boring. The department head spoke for two hours!&#10;= The meeting was long and boring because the department head spoke for two hours!&#10;or= The meeting was long and boring because the department head spoke for two hours.&#10;5- The restaurant didn't take credit cards. I paid with cash.&#10;= The restaurant didn't take credit cards so I paid with cash.&#10;or= The restaurant didn´t take credit cards so I paid with cash.&#10;or= The restaurant didn`t take credit cards so I paid with cash." max_attempts="3">
+<p>Join the sentences with <i>so</i> or <i>because</i>.</p>
+<p>1- The bus was canceled. We waited for the next one.<br/>Answer: <i> The bus was canceled so we waited for the next one.</i></p>
+<p>2- The flight was canceled. The weather was terrible.</p>
+<stringresponse answer="The flight was canceled because the weather was terrible." type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>3- The food was hot and spicy. We drank three bottles of water with our meal.</p>
+<stringresponse answer="The food was hot and spicy so we drank three bottles of water with our meal." type="ci">
+  <textline size="20"/>
+</stringresponse>
+<p>4- The meeting was long and boring. The department head spoke for two hours!</p>
+<stringresponse answer="The meeting was long and boring because the department head spoke for two hours!" type="ci">
+  <additional_answer answer="The meeting was long and boring because the department head spoke for two hours."/>
+  <textline size="20"/>
+</stringresponse>
+<p>5- The restaurant didn't take credit cards. I paid with cash.</p>
+<stringresponse answer="The restaurant didn't take credit cards so I paid with cash." type="ci">
+  <additional_answer answer="The restaurant didn´t take credit cards so I paid with cash."/>
+  <additional_answer answer="The restaurant didn`t take credit cards so I paid with cash."/>
+  <textline size="20"/>
+</stringresponse>
+
+
+</problem>

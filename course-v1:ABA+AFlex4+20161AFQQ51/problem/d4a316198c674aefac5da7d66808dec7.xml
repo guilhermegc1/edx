@@ -1,0 +1,22 @@
+<problem display_name="Extra Work!" markdown="Write a short travel blog about a journey or a place you have visited.&#10;&#10;Think about the following questions:&lt;br/&gt;1- Where were you?&lt;br/&gt;2- When was it?&lt;br/&gt;3- Who was there?&lt;br/&gt;4- What happened?&#10;&#10;After, check how was it:&#10;(x) Mark as done.&#10;( ) I don't know how to do.&#10;&#10;[explanation]&#10;Show your teacher next class.&#10;[explanation]">
+<p>Write a short travel blog about a journey or a place you have visited.</p>
+
+<p>Think about the following questions:<br/>1- Where were you?<br/>2- When was it?<br/>3- Who was there?<br/>4- What happened?</p>
+
+<p>After, check how was it:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mark as done.</choice>
+    <choice correct="false">I don't know how to do.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Show your teacher next class.</p>
+
+</div>
+</solution>
+</problem>

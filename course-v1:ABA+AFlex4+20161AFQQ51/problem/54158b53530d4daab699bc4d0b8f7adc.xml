@@ -1,0 +1,18 @@
+<problem display_name="Exercise 4" markdown="Complete the text with the past simple negative form of the verbs.&#10;&#10;The Spirit of St Louis&#10;=====&#10;The Orteig Prize was $25,000. Raymond Orteig was a rich businessman and he offered the prize in 1919 to the first pilot to fly nonstop from New York to Paris. It was a dangerous journey and before 1927 six pilots tried the journey but they ___________ (survive).&#10;= didn't survived&#10;or= didn´t survived&#10;or= didn`t survived&#10;But in 1927, Charles Lindbergh flew from New York to Paris. It took 33 hours. He ____________ (stop) and so he won the Orteig Prize.&#10;= didn't stop&#10;or= didn´t stop&#10;or= didn`t stop&#10;Lindbergh and his plane, The Spirit of St Louis, became famous. You can see the plane today at the National Air and Space Museum in Washington DC." max_attempts="3">
+<p>Complete the text with the past simple negative form of the verbs.</p>
+
+<h1>The Spirit of St Louis</h1>
+<p>The Orteig Prize was $25,000. Raymond Orteig was a rich businessman and he offered the prize in 1919 to the first pilot to fly nonstop from New York to Paris. It was a dangerous journey and before 1927 six pilots tried the journey but they ___________ (survive).</p>
+<stringresponse answer="didn't survived" type="ci">
+  <additional_answer answer="didn´t survived"/>
+  <additional_answer answer="didn`t survived"/>
+  <textline size="20"/>
+</stringresponse>
+<p>But in 1927, Charles Lindbergh flew from New York to Paris. It took 33 hours. He ____________ (stop) and so he won the Orteig Prize.</p>
+<stringresponse answer="didn't stop" type="ci">
+  <additional_answer answer="didn´t stop"/>
+  <additional_answer answer="didn`t stop"/>
+  <textline size="20"/>
+</stringresponse>
+<p>Lindbergh and his plane, The Spirit of St Louis, became famous. You can see the plane today at the National Air and Space Museum in Washington DC.</p>
+</problem>
